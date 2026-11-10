@@ -1,0 +1,7 @@
+key,bet,p_first,p_top_two
+addon,Cart add-on recommendations,0.535,0.8828
+nudge,Free-delivery progress bar,0.3778,0.796
+ads,Sponsored-product relevance,0.0872,0.3144
+batch,Rider batching,0.0,0.004
+waste,Perishable wastage forecasting,0.0,0.002
+reorder,Reorder shortcuts,0.0,0.0008

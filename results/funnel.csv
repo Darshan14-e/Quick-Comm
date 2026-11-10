@@ -1,0 +1,7 @@
+stage,step_conversion,share_of_openers
+Opens the app,1.0,1.0
+Browses or searches,0.88,0.88
+Adds to cart,0.42,0.3696
+Starts checkout,0.78,0.288288
+Pays successfully,0.94,0.27099071999999996
+Order delivered,0.985,0.26692585919999995
